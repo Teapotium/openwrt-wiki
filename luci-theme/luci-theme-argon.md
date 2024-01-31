@@ -3,15 +3,11 @@
 
 
 {% hint style="info" %}
-可以使用配套的自定义插件 luci-app-argon-config 或者是 luci-app-advancedplus 自定义主题
+可以使用配套的自定义插件 luci-app-argon-config 自定义主题
 {% endhint %}
 
 {% content-ref url="../luci-app/luci-app-argon-config.md" %}
 [luci-app-argon-config.md](../luci-app/luci-app-argon-config.md)
-{% endcontent-ref %}
-
-{% content-ref url="../luci-app/luci-app-advancedplus.md" %}
-[luci-app-advancedplus.md](../luci-app/luci-app-advancedplus.md)
 {% endcontent-ref %}
 
 ### 界面预览
