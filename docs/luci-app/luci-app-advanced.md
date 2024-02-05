@@ -1,6 +1,6 @@
 # luci-app-advanced
 
-高级设置插件，提供了直接修改以下配置文件的功能
+高级设置/进阶设置插件，提供了直接修改以下配置文件的功能
 
 /etc/dnsmasq.conf（DNSMASQ配置，对应openwrt的 DHCP/DNS 页面）
 
@@ -33,7 +33,5 @@
 /etc/config/openclash（luci-app-openclash）
 
 以及提供了网页文件管理功能和一些懒人一键配置功能(旧版功能)
-
-
 
 {% embed url="https://github.com/sirpdboy/luci-app-advanced" %}

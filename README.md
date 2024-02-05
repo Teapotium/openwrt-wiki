@@ -10,7 +10,7 @@ gitbook链接：https://wiki.teapotium.com/
 docs
 ├─luci-app/
 ├─luci-theme/
-├─INDEX.md
+├─README.md
 └─SUMMARY.md
 ```
 
@@ -18,7 +18,7 @@ luci-app目录下为插件页面
 
 luci-theme下为主题页面
 
-INDEX.md为百科首页
+README.md为百科首页
 
 SUMMARY.md为目录
 
