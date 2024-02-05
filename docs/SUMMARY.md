@@ -22,7 +22,7 @@
 * [luci-app-autoupdate](luci-app/luci-app-autoupdate.md)
 * [luci-app-baidupcs-web](luci-app/luci-app-baidupcs-web.md)
 * [luci-app-bandwidthd](luci-app/luci-app-bandwidthd.md)
-* [luci-app-luci-app-beardropper](luci-app/luci-app-beardropper.md)
+* [luci-app-beardropper](luci-app/luci-app-beardropper.md)
 * [luci-app-bypass](luci-app/luci-app-bypass.md)
 * [luci-app-clash](luci-app/luci-app-clash.md)
 * [luci-app-design-config](luci-app/luci-app-design-config.md)
