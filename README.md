@@ -1,4 +1,5 @@
 # openwrt插件百科页面github仓库
+## [👍前往讨论区](https://github.com/Teapotium/openwrt-wiki/discussions)
 
 本项目为非官方运营，个人精力有限不能及时更新，欢迎提交pr，或者issues
 
